@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./murendeni-github-banner.jpg" alt="Murendeni Ramuhashi GitHub Banner" width="100%">
+  <img src="./banner.jpg" alt="Murendeni Ramuhashi GitHub Banner" width="100%">
 </p>
 
 # Hi, I'm Murendeni 💜
