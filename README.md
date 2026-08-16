@@ -1,4 +1,8 @@
-# Hi, I'm Murendeni 👋🏽
+<p align="center">
+  <img src="./murendeni-github-banner.jpg" alt="Murendeni Ramuhashi GitHub Banner" width="100%">
+</p>
+
+# Hi, I'm Murendeni 💜
 
 ### Aspiring FinTech Professional | Data Analytics | Software Development
 
