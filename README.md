@@ -4,7 +4,7 @@
 
 # Hi, I'm Murendeni 💜
 
-### Aspiring FinTech Professional | Data Analytics | Software Development
+## BCom Graduate | FinTech • Financial Analytics • Software Development
 
 I'm a Bachelor of Commerce graduate building my skills at the intersection of **finance, technology, and data**.
 
@@ -16,13 +16,13 @@ I'm particularly interested in how technology can transform financial services, 
 
 I'm currently developing practical skills in:
 
-* 📊 Data Analytics
-* 🐍 Python
-* 🗄️ SQL
-* 📈 Data Visualization
-* 💰 Financial Analysis
-* 💻 Software Development
-* 🏦 FinTech
+- 📊 Data Analytics
+- 🐍 Python
+- 🗄️ SQL
+- 📈 Data Visualization
+- 💰 Financial Analysis
+- 💻 Software Development
+- 🏦 FinTech
 
 ---
 
@@ -32,23 +32,23 @@ I'm currently focused on building a strong foundation in **coding and data analy
 
 I'm especially interested in:
 
-* FinTech
-* Banking & Financial Services
-* Financial Data Analysis
-* Investment & Portfolio Analysis
-* Data-Driven Decision Making
-* Financial Technology Solutions
+- FinTech
+- Banking & Financial Services
+- Financial Data Analysis
+- Investment & Portfolio Analysis
+- Data-Driven Decision Making
+- Financial Technology Solutions
 
 ---
 
 ## 📚 Currently Learning
 
-* Python
-* Data Analytics
-* SQL
-* Git & GitHub
-* Financial Technology
-* Data Visualization
+- Python
+- Data Analytics
+- SQL
+- Git & GitHub
+- Financial Technology
+- Data Visualization
 
 ---
 
@@ -56,7 +56,7 @@ I'm especially interested in:
 
 To build a career at the intersection of **finance, technology, and innovation** while continuously developing my technical and analytical skills.
 
-> *Build. Learn. Analyse. Create.*
+> _Build. Learn. Analyse. Create._
 
 ---
 
