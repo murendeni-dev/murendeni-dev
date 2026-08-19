@@ -1,99 +1,183 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Murendeni Ramuhashi GitHub Banner" width="80%">
+  <img src="./banner.jpg" alt="Murendeni Ramuhashi GitHub Banner" width="70%">
 </p>
 
-# Hi, I'm Murendeni 💜
+<h1 align="center">Hi, I'm Murendeni 💜</h1>
 
-## BCom Graduate | FinTech • Financial Analytics • Software Development
+<p align="center">
+  <strong>FinTech • Financial Analytics • Data • Software Development</strong>
+</p>
 
-I'm a Bachelor of Commerce graduate building my skills at the intersection of **finance, technology, and data**.
-
-I'm particularly interested in how technology can transform financial services, improve decision-making, and create smarter ways of working with financial data.
-
----
-
-## 💻 What I'm Building
-
-I'm currently developing practical skills in:
-
-- 📊 Data Analytics
-- 🐍 Python
-- 🗄️ SQL
-- 📈 Data Visualization
-- 💰 Financial Analysis
-- 💻 Software Development
-- 🏦 FinTech
+<p align="center">
+  BCom Graduate building at the intersection of finance, technology, and data.
+</p>
 
 ---
 
-## 🚀 Current Focus
+## 👩🏽‍💻 About Me
 
-I'm currently focused on building a strong foundation in **coding and data analytics** while developing projects that connect technology with real-world financial problems.
+I'm a Bachelor of Commerce graduate developing my technical and analytical skills at the intersection of **finance, technology, and innovation**.
 
-I'm especially interested in:
+I'm interested in how technology can transform financial services, improve decision-making, and create smarter solutions for real-world financial problems.
 
-- FinTech
-- Banking & Financial Services
-- Financial Data Analysis
-- Investment & Portfolio Analysis
-- Data-Driven Decision Making
-- Financial Technology Solutions
+I'm currently building my foundation in **Python, data analytics, SQL, software development, and FinTech** through structured learning and hands-on projects.
+
+> **Build. Learn. Analyse. Create.**
 
 ---
 
-## 📚 Currently Learning
+## 🚀 What I'm Working Towards
 
-- Python
-- Data Analytics
-- SQL
-- Git & GitHub
-- Financial Technology
-- Data Visualization
+My goal is to build a career where **finance and technology meet**.
 
----
+I'm particularly interested in:
 
-## 🎯 My Goal
-
-To build a career at the intersection of **finance, technology, and innovation** while continuously developing my technical and analytical skills.
-
-> _Build. Learn. Analyse. Create._
+* 🏦 FinTech & Financial Technology
+* 💰 Banking & Financial Services
+* 📊 Financial Data Analysis
+* 📈 Investment & Portfolio Analysis
+* 🤖 Data-Driven Decision Making
+* 💻 Software Development
+* 🔐 Financial Technology Solutions
+* 📱 Digital Financial Products
 
 ---
 
-## 📂 Featured Projects
+## 📚 Learning Journey
 
-Projects will be added here as I build them.
+### 🎓 FNB App Academy
 
-| Project        | Description                     | Technologies         |
-| -------------- | ------------------------------- | -------------------- |
-| 🚧 Coming Soon | Financial data analysis project | Python • Pandas      |
-| 🚧 Coming Soon | Personal finance project        | Python               |
-| 🚧 Coming Soon | Banking analytics project       | SQL • Data Analytics |
+I'm currently using the **FNB App Academy** to strengthen my programming and software development foundations through practical exercises and projects.
+
+**Phase 1 — Python Foundations**
+
+My Phase 1 work includes exercises covering:
+
+* Python fundamentals
+* Variables & data types
+* Conditional statements
+* Loops
+* Functions
+* User input
+* Basic problem solving
+* Practical programming challenges
+
+📂 **[View FNB App Academy Phase 1](./FNB-App-Academy/Phase-1/)**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Technical Skills
 
-**Languages & Tools**
+### Programming
 
-`Python` `SQL` `Git` `GitHub`
+`Python`
 
-**Data & Analytics**
+### Data & Analytics
 
-`Pandas` `Data Visualization` `Excel`
+`Pandas` `Excel` `Data Visualization` `Financial Analysis`
 
-**Currently Exploring**
+### Databases
 
-`FinTech` `APIs` `Financial Analytics` `Software Development`
+`SQL`
+
+### Development Tools
+
+`Git` `GitHub`
+
+### Currently Exploring
+
+`FinTech` `APIs` `Software Development` `Financial Analytics` `Data-Driven Applications`
+
+---
+
+## 📂 Repository
+
+This repository documents my development journey — from learning programming fundamentals to building practical projects.
+
+### 🏦 FNB App Academy
+
+My coursework and practical programming exercises.
+
+**[→ FNB App Academy](./FNB-App-Academy/)**
+
+### 💰 FinTech Projects
+
+Projects exploring the intersection of finance and technology.
+
+**[→ FinTech Projects](./Projects/FinTech/)**
+
+### 📊 Data Analytics
+
+Analytics projects, experiments, and data-driven work.
+
+**[→ Data Analytics](./Projects/Data-Analytics/)**
+
+### 💻 Web Development
+
+Web and software development projects.
+
+**[→ Web Development](./Projects/Web-Development/)**
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+
+`Python`
+`SQL`
+`Git`
+`GitHub`
+`Pandas`
+`Excel`
+`Data Visualization`
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+Right now, I'm focused on:
+
+* Strengthening my Python fundamentals
+* Developing my data analytics skills
+* Learning SQL
+* Building practical projects
+* Understanding FinTech applications
+* Improving my software development workflow
+* Building a portfolio that demonstrates both **financial knowledge and technical ability**
+
+---
+
+## 🌱 What's Next?
+
+This repository will continue evolving as I progress through my technical journey.
+
+Future areas include:
+
+* Advanced Python
+* Data Analytics
+* SQL & Databases
+* APIs
+* Financial Modelling
+* FinTech Applications
+* Data Visualization
+* Software Development
+* Financial Technology Projects
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always interested in learning, building, and connecting with people working across **finance, technology, data, and innovation**.
+I'm interested in connecting with people working across:
 
-**LinkedIn:** Coming soon
+**Finance • Technology • Data • FinTech • Innovation**
+
+LinkedIn: **Coming soon**
 
 ---
 
-### 🌱 One commit at a time.
+<p align="center">
+  🌱 <strong>Learning one concept. Building one project. Making one commit at a time.</strong>
+</p>
